@@ -1,0 +1,25 @@
+body {
+	background: 
+		url("https://consonblog-1257792125.cos.ap-chengdu.myqcloud.com/Star/1056813.png") 
+		no-repeat center center fixed;
+	background-size: cover;
+	/* background-color: black; */
+}
+p{
+	text-align: center;
+	font-size: 30px;
+	padding: 100px;
+	
+}
+.conson{
+	text-align: center ;
+	padding-top: 100px ;
+	padding-bottom: 150px ;
+}
+.starDiv{
+	width: 33.3%;
+	height: 400px;
+	float: left;
+	padding: 30px;
+	/* border: 1px solid; */
+}
