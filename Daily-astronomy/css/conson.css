@@ -1,0 +1,57 @@
+body {
+	/*background-color: #008B8B;*/
+	background:url("../images/3.png") no-repeat center center fixed;
+    background-size:cover;
+}
+h4{
+	font-size: 20px;
+	padding-left: 30px !important;
+	padding-right: 30px !important;
+	text-align: justify;
+}
+img{
+	box-shadow: 0 30px 30px rgba(0, 0, 0, .5);
+}
+.padding-lr {
+	padding-left: 250px !important;
+	padding-right: 250px !important;
+	padding-bottom: 50px !important;
+}
+
+.text-style {
+	padding-left: 200px !important;
+	padding-right: 200px !important;
+	text-align: justify;
+}
+.conson{
+	text-align: center !important;
+	padding-top: 50px !important;
+	padding-bottom: 100px !important;
+}
+.divPcMessage{
+	width: 510px !important;
+}
+form{
+	padding-top: 100px !important;
+}
+
+@media screen and (max-width: 768px) {
+	.mobile-lr {
+		padding: 20px !important;
+		padding-bottom: 50px !important;
+	}
+	.mobile-text-style {
+		padding-left: 50px !important;
+		padding-right: 50px !important;
+		text-align: justify;
+	}
+	h4{
+		font-size: 20px;
+		padding-left: 30px !important;
+		padding-right: 30px !important;
+		text-align: justify;
+	}
+	.divMobileMessage{
+		width: 400px !important;
+	}
+}
