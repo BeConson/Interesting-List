@@ -2,7 +2,7 @@
 
 ✨ 一些小 Demo
 
-## Star 
+## 1、Star 
 
 - 12 星座图
 
@@ -12,7 +12,7 @@
 
 ![](https://consonblog-1257792125.cos.ap-chengdu.myqcloud.com/Star/star4.png)
 
-## Daily-astronomy
+## 2、Daily-astronomy
 
 - 每日天文
 
